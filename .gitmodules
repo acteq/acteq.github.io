@@ -1,3 +1,7 @@
 [submodule "themes/magzine"]
 	path = themes/magzine
 	url = https://github.com/acteq/Mainroad.git
+[submodule "public"]
+	path = public
+	url = https://github.com/acteq/acteq.github.io.git
+	branch = master
